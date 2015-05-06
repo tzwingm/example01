@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    std::cout << "Hallo, du schööööne Welt!" << std::endl;
+    std::cout << "Hallo, du schöööööne Welt!" << std::endl;
 	return 0; 
 }
